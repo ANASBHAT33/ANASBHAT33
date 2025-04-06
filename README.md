@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning quantum physics
 - 💞️ I’m looking to collaborate on NASA
 - 📫 How to reach me bhatanas572@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact:I am like heisenberg uncertanity principal
 
 <!---
